@@ -24,4 +24,30 @@
     "base64" : "IKg8v2l4CmIuDM0WqmygiSXuXowp11rMAb4fEABR6JDGabaKqHLB8pOkipsgeBQvWPcYSyI4e8KhVzklPgg6yvI="
   },
   "contentHash" : "00000000"
+}, {
+  "row" : 2,
+  "timestamp" : 1535538309887,
+  "traceOriginalId" : "2e0defd999e544e94f7b125c707bc3ae588d4062f8a82ea0978631da6ea7474b",
+  "documentHash" : "2e0defd999e544e94f7b125c707bc3ae588d4062f8a82ea0978631da6ea7474b",
+  "type" : "CREATE",
+  "documentVersion" : 1,
+  "ownerKey" : {
+    "hex" : "03283e9586a9ee351c6dc92c9d1c7769097938e0aa5291fac3f7e8666953faf5f6"
+  },
+  "versionKey" : {
+    "hex" : "02e8c8eb8ed7021647e73534bf5714cafdefe30289b698aeb807713864ad6655ee"
+  },
+  "ownerSignature" : {
+    "base64" : "H0ScryXZSSpwZcgvHsjnCHu9rdJY/c+weogA+sYirbDOPv/lOG3AoM4Uw75reorRP4h3kT/lY5oQoUvXJ1kWBW8="
+  },
+  "versionSignature" : {
+    "base64" : "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "ledgerSignature" : {
+    "base64" : "H/BqM4eNucg7nWepXDUQ+i9/30mYlZUOshyAYSoVpY4eeWYVF/LVWbNwexjLUoWIRNESu3QPhD6j2quMskR9Rjk="
+  },
+  "ledgerSeal" : {
+    "base64" : "IBJ2HVU0oj2hr6YNm/saItHo/GBsoJvhJsGNBjykE+4aRCfD38ZLc5r4AQZq6LSKUTnPVgwWg7WVBswjkbBcXu4="
+  },
+  "contentHash" : "4547f18f0f99f8d37c614f7b5a933a8864dfcd056e8bbfa5a0b03624d4ec30b7"
 } ]
