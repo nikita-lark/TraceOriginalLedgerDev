@@ -1,0 +1,27 @@
+[ {
+  "row" : 1,
+  "timestamp" : 1535531980339,
+  "traceOriginalId" : "00000000",
+  "documentHash" : "00000000",
+  "type" : "CONFIGURATION_CREATE",
+  "documentVersion" : 1,
+  "ownerKey" : {
+    "hex" : "02df04907c92571851097f245aaca109185b8e5782f31f71090e7f0461b537148f"
+  },
+  "versionKey" : {
+    "hex" : "02df04907c92571851097f245aaca109185b8e5782f31f71090e7f0461b537148f"
+  },
+  "ownerSignature" : {
+    "base64" : "IAXKMfCgbDPBNjk03qz2MMdvAQjLJMKLwMwEdA/RbeHcThXtM80hbKhrs9mkC9S4s41yTr89CtqhgedmHkPD734="
+  },
+  "versionSignature" : {
+    "base64" : "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "ledgerSignature" : {
+    "base64" : "IAXKMfCgbDPBNjk03qz2MMdvAQjLJMKLwMwEdA/RbeHcThXtM80hbKhrs9mkC9S4s41yTr89CtqhgedmHkPD734="
+  },
+  "ledgerSeal" : {
+    "base64" : "IKg8v2l4CmIuDM0WqmygiSXuXowp11rMAb4fEABR6JDGabaKqHLB8pOkipsgeBQvWPcYSyI4e8KhVzklPgg6yvI="
+  },
+  "contentHash" : "00000000"
+} ]
