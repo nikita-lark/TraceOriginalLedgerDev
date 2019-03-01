@@ -1,2 +1,0 @@
-Block: 18
-Row TimeStamp TraceOriginalId DocumentHash ContentHash Type DocumentVersion OwnerKey VersionKey OwnerSignature VersionSignature LedgerSignature LedgerSeal Block
